@@ -18,9 +18,9 @@ precision register for math operations. They were all compiled using `gcc` with
 the following parameters:
 
 ```
-gcc -pipe -ansi -pedantic -Wall -O2 {source} -o {exe} -lm -lcrypt
+gcc -pipe -ansi -pedantic -Wall -O2 {input} -o {output} -lm -lcrypt
 ```
 
 (When I submit a solution to UVa Online Judge, however, I choose a C++ 11
-compiler, since it produces more optimized and faster executables. It seems to
+compiler, since it produces better optimized and faster executables. It seems to
 be a peculiarity of the submission system.)
