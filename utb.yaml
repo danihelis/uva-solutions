@@ -1,0 +1,4 @@
+problem-dir: .open
+solution-dir: volumes
+force-cpp-on-ansi-c: true
+editor: gvim -o {}

@@ -1,2 +1,9 @@
 *.pyc
 *.swp
+
+utb
+run.py
+
+.data
+.open
+.pdf
