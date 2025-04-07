@@ -2,7 +2,7 @@
 *.swp
 
 utb
-run.py
+utb.py
 
 .data
 .open
