@@ -1,4 +1,5 @@
 problem-dir: .open
 solution-dir: volumes
 force-cpp-on-ansi-c: true
+bypass-ssl-certificate: true
 editor: gvim -o {}
